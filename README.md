@@ -7,7 +7,9 @@ Blue - weekends
 Bright blue - holidays and days off
 Bright green - session
 Pink - the timetable is valid for a different day of the week on that day.
-#POL
+
+
+#POL!
 Kalendarz pokazujący semestr letni studenta. Składa się z 4 semestrów: Marzec, Kwiecień, Maj, Czerwiec. Kalendarz ma również zawarte dni świąteczne z himperlinkami.
 Kolory:
 Biały- dzień pracujący
